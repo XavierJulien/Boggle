@@ -1,0 +1,52 @@
+lib: [
+  "_build/install/default/lib/boggle/META" {"META"}
+  "_build/install/default/lib/boggle/opam" {"opam"}
+  "_build/install/default/lib/boggle/boggle__Board.cmi" {"boggle__Board.cmi"}
+  "_build/install/default/lib/boggle/boggle__Board.cmx" {"boggle__Board.cmx"}
+  "_build/install/default/lib/boggle/boggle__Board.cmt" {"boggle__Board.cmt"}
+  "_build/install/default/lib/boggle/boggle__Board.cmti" {"boggle__Board.cmti"}
+  "_build/install/default/lib/boggle/board.mli" {"board.mli"}
+  "_build/install/default/lib/boggle/board.ml" {"board.ml"}
+  "_build/install/default/lib/boggle/boggle.cmi" {"boggle.cmi"}
+  "_build/install/default/lib/boggle/boggle.cmx" {"boggle.cmx"}
+  "_build/install/default/lib/boggle/boggle.cmt" {"boggle.cmt"}
+  "_build/install/default/lib/boggle/boggle.ml-gen" {"boggle.ml-gen"}
+  "_build/install/default/lib/boggle/boggle__Iter.cmi" {"boggle__Iter.cmi"}
+  "_build/install/default/lib/boggle/boggle__Iter.cmx" {"boggle__Iter.cmx"}
+  "_build/install/default/lib/boggle/boggle__Iter.cmt" {"boggle__Iter.cmt"}
+  "_build/install/default/lib/boggle/boggle__Iter.cmti" {"boggle__Iter.cmti"}
+  "_build/install/default/lib/boggle/iter.mli" {"iter.mli"}
+  "_build/install/default/lib/boggle/iter.ml" {"iter.ml"}
+  "_build/install/default/lib/boggle/boggle__Lexicon.cmi" {"boggle__Lexicon.cmi"}
+  "_build/install/default/lib/boggle/boggle__Lexicon.cmx" {"boggle__Lexicon.cmx"}
+  "_build/install/default/lib/boggle/boggle__Lexicon.cmt" {"boggle__Lexicon.cmt"}
+  "_build/install/default/lib/boggle/boggle__Lexicon.cmti" {"boggle__Lexicon.cmti"}
+  "_build/install/default/lib/boggle/lexicon.mli" {"lexicon.mli"}
+  "_build/install/default/lib/boggle/lexicon.ml" {"lexicon.ml"}
+  "_build/install/default/lib/boggle/boggle__Path.cmi" {"boggle__Path.cmi"}
+  "_build/install/default/lib/boggle/boggle__Path.cmx" {"boggle__Path.cmx"}
+  "_build/install/default/lib/boggle/boggle__Path.cmt" {"boggle__Path.cmt"}
+  "_build/install/default/lib/boggle/boggle__Path.cmti" {"boggle__Path.cmti"}
+  "_build/install/default/lib/boggle/path.mli" {"path.mli"}
+  "_build/install/default/lib/boggle/path.ml" {"path.ml"}
+  "_build/install/default/lib/boggle/boggle__RandomLetter.cmi" {"boggle__RandomLetter.cmi"}
+  "_build/install/default/lib/boggle/boggle__RandomLetter.cmx" {"boggle__RandomLetter.cmx"}
+  "_build/install/default/lib/boggle/boggle__RandomLetter.cmt" {"boggle__RandomLetter.cmt"}
+  "_build/install/default/lib/boggle/boggle__RandomLetter.cmti" {"boggle__RandomLetter.cmti"}
+  "_build/install/default/lib/boggle/randomLetter.mli" {"randomLetter.mli"}
+  "_build/install/default/lib/boggle/randomLetter.ml" {"randomLetter.ml"}
+  "_build/install/default/lib/boggle/boggle__Solver.cmi" {"boggle__Solver.cmi"}
+  "_build/install/default/lib/boggle/boggle__Solver.cmx" {"boggle__Solver.cmx"}
+  "_build/install/default/lib/boggle/boggle__Solver.cmt" {"boggle__Solver.cmt"}
+  "_build/install/default/lib/boggle/boggle__Solver.cmti" {"boggle__Solver.cmti"}
+  "_build/install/default/lib/boggle/solver.mli" {"solver.mli"}
+  "_build/install/default/lib/boggle/solver.ml" {"solver.ml"}
+  "_build/install/default/lib/boggle/boggle.cma" {"boggle.cma"}
+  "_build/install/default/lib/boggle/boggle.cmxa" {"boggle.cmxa"}
+  "_build/install/default/lib/boggle/boggle.a" {"boggle.a"}
+  "_build/install/default/lib/boggle/boggle.cmxs" {"boggle.cmxs"}
+  "_build/install/default/lib/boggle/boggle.dune" {"boggle.dune"}
+]
+bin: [
+  "_build/install/default/bin/boggle" {"boggle"}
+]

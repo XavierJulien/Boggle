@@ -1,0 +1,17 @@
+(** @canonical Boggle.Board *)
+module Board = Boggle__Board
+
+(** @canonical Boggle.Iter *)
+module Iter = Boggle__Iter
+
+(** @canonical Boggle.Lexicon *)
+module Lexicon = Boggle__Lexicon
+
+(** @canonical Boggle.Path *)
+module Path = Boggle__Path
+
+(** @canonical Boggle.RandomLetter *)
+module RandomLetter = Boggle__RandomLetter
+
+(** @canonical Boggle.Solver *)
+module Solver = Boggle__Solver

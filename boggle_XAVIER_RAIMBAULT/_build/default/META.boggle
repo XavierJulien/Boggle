@@ -1,0 +1,6 @@
+description = ""
+requires = ""
+archive(byte) = "boggle.cma"
+archive(native) = "boggle.cmxa"
+plugin(byte) = "boggle.cma"
+plugin(native) = "boggle.cmxs"
